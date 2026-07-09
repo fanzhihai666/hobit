@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Login",
+    "pages/Index",
+    "pages/AddHabit",
+    "pages/CheckInDetail",
+    "pages/Statistics",
+    "pages/CheckInLogs",
+    "pages/CheckInLogDetail"
+  ]
+}

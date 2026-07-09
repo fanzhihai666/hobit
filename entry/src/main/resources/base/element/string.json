@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "习惯打卡助手"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "习惯打卡"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "习惯打卡卡片"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "展示今日打卡进度"
+    },
+    {
+      "name": "read_media_reason",
+      "value": "用于选择并上传打卡配图"
+    },
+    {
+      "name": "write_media_reason",
+      "value": "用于保存打卡相关图片"
+    },
+    {
+      "name": "remind_reason",
+      "value": "用于在设定时间发送打卡提醒"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "cleartextTraffic": true,
+  "domains": [
+    {
+      "domain": "10.74.168.246",
+      "cleartextTraffic": true
+    },
+    {
+      "domain": "localhost",
+      "cleartextTraffic": true
+    }
+  ]
+}
